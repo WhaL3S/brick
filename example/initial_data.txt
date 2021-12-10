@@ -1,0 +1,11 @@
+Brick length: 250
+Brick width:  120
+Brick height:  88
+
+Brick length: 240
+Brick width:  115
+Brick height:  71
+
+Brick length: 240
+Brick width:  115
+Brick height:  61
