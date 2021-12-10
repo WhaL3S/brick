@@ -1,0 +1,3 @@
+Number (quantity) of   I-type bricks required:  12544
+Number (quantity) of  II-type bricks required:  16900
+Number (quantity) of III-type bricks required:  19672
