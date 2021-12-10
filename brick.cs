@@ -55,8 +55,6 @@ class Brick
             int q3;
             q3 = OneWall(b3, wallLength, wallWidth, wallHeight);
             Console.WriteLine("Number (quantity) of III-type bricks required: {0,6:d} \n", (4 * q3));
-
-            Console.WriteLine("Program finished working!");
         }
 
     }
